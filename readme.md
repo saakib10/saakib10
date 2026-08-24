@@ -186,6 +186,4 @@ func main() {
 
 **Thanks for visiting! Show some ❤️ by starring some repositories!**
 
-![Visitor Count](https://profile-counter.glitch.me/saakib10/count.svg)
-
 </div>
