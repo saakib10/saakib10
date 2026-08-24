@@ -138,7 +138,7 @@ func main() {
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -158,7 +158,7 @@ func main() {
 
 ---
 
-## 💼 Recent Activity
+## 💼 Recent Activity -->
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
