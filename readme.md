@@ -70,6 +70,10 @@ func main() {
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+### FrameWork
+![Frappe](https://img.shields.io/badge/Frappe-2496ED?style=for-the-badge&logo=frappe&logoColor=white)
+![Djano](https://img.shields.io/badge/Djano-326CE5?style=for-the-badge&logo=djano&logoColor=white)
+
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
