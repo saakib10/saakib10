@@ -136,35 +136,6 @@ func main() {
 
 </div>
 
----
-
-<!-- ## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=saakib10&theme=tokyonight&no-frame=true&no-bg=false&row=2&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/azizulhoq953/azizulhoq953/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 💼 Recent Activity -->
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ## 💡 Random Dev Quote
 
 <div align="center">
