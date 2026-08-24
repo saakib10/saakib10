@@ -4,8 +4,8 @@
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-azizul-hoq-480b561ba/)
-[![Profile Views](https://komarev.com/ghpvc/?username=azizulhoq953&style=for-the-badge&color=blue)](https://github.com/azizulhoq953)
+[![LinkedIn](https://www.linkedin.com/in/sakib-ahmed-cse/)
+<!-- [![Profile Views](https://komarev.com/ghpvc/?username=azizulhoq953&style=for-the-badge&color=blue)](https://github.com/azizulhoq953) -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Go+%7C+Node.js+Enthusiast;DevOps+Explorer;Problem+Solver" alt="Typing SVG" />
 
@@ -34,9 +34,9 @@ type Developer struct {
 
 func main() {
     me := Developer{
-        Name:      "Md. Azizul Hoq",
+        Name:      "Sakib Ahamad",
         Location:  "Bangladesh 🇧🇩",
-        Expertise: []string{"Go", "Node.js", "DevOps", "System Design"},
+        Expertise: []string{"Python", "JS", "DevOps", "System Design"},
         Learning:  "Technical Content Writing & Cloud Architecture",
         Hobbies:   []string{"Competitive Programming", "Reading Tech Articles"},
     }
@@ -45,11 +45,11 @@ func main() {
 }
 ```
 
-- 🔭 Currently working with **Go** and **Node.js**
+- 🔭 Currently working with **Python** and **Frappe/ERPNext**
 - 🌱 Exploring **Technical Content Writing** and **Cloud Technologies**
 - ⚡ Solving problems on **LeetCode** and **Codeforces** in my free time
 - 💬 Ask me about **Backend Development**, **DevOps**, and **System Design**
-- 📫 Reach me: [![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-azizul-hoq-480b561ba/)
+- 📫 Reach me: [![LinkedIn](https://www.linkedin.com/in/sakib-ahmed-cse/)
 
 ---
 
