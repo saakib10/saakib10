@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Backend Developer** from 🇧🇩 Bangladesh, specializing in building scalable and efficient systems.
+I'm a passionate **Python Developer** from 🇧🇩 Bangladesh, specializing in building scalable and efficient systems.
 
 ```go
 package main
@@ -36,7 +36,7 @@ func main() {
     me := Developer{
         Name:      "Sakib Ahamad",
         Location:  "Bangladesh 🇧🇩",
-        Expertise: []string{"Python", "JS", "DevOps", "System Design"},
+        Expertise: []string{"Python", "JS", "Frappe","ERPNext","DevOps", "System Design"},
         Learning:  "Technical Content Writing & Cloud Architecture",
         Hobbies:   []string{"Competitive Programming", "Reading Tech Articles"},
     }
@@ -45,7 +45,7 @@ func main() {
 }
 ```
 
-- 🔭 Currently working with **Python** and **Frappe **
+- 🔭 Currently working with **Python** and **Frappe** and **ERPNext**
 - 🌱 Exploring **Technical Content Writing** and **Cloud Technologies**
 - ⚡ Solving problems on **LeetCode** and **Codeforces** in my free time
 - 💬 Ask me about **Backend Development**, **DevOps**, and **System Design**
@@ -63,7 +63,7 @@ func main() {
 ![SCSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend & Databases
-![Python](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-43853D?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
