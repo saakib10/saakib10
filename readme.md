@@ -19,32 +19,6 @@
 
 I'm a passionate **Python Developer** from 🇧🇩 Bangladesh, specializing in building scalable and efficient systems.
 
-```go
-package main
-
-import "fmt"
-
-type Developer struct {
-    Name       string
-    Location   string
-    Expertise  []string
-    Learning   string
-    Hobbies    []string
-}
-
-func main() {
-    me := Developer{
-        Name:      "Sakib Ahamad",
-        Location:  "Bangladesh 🇧🇩",
-        Expertise: []string{"Python", "JS", "Frappe","ERPNext","DevOps", "System Design"},
-        Learning:  "Technical Content Writing & Cloud Architecture",
-        Hobbies:   []string{"Competitive Programming", "Reading Tech Articles"},
-    }
-    
-    fmt.Printf("Welcome to %s's profile!\n", me.Name)
-}
-```
-
 - 🔭 Currently working with **Python** and **Frappe** and **ERPNext**
 - 🌱 Exploring **Technical Content Writing** and **Cloud Technologies**
 - ⚡ Solving problems on **LeetCode** and **Codeforces** in my free time
